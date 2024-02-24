@@ -1,2 +1,3 @@
 # git
-practice
+practic
+author - ajinkya garkal
